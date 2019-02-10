@@ -25,4 +25,4 @@ try it [here](http://github.com)
 
 ### License:
 *MIT*
-COpyright (c) 2019
+Copyright (c) 2019
