@@ -30,19 +30,18 @@ header a:hover {
   background-color: rgba(255, 255, 255, 0.5);
 }
 footer{
-  padding-top: 30px;
+  padding-top: 70px;
   width: 100%;  
   position: relative;
   background-color: rgb(22, 22, 49);
   bottom: 0;
 }
 footer h1{
-  font-size: 15px;
+  font-size: 16px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   float: left;
   color: rgba(128, 255, 0, 0.795);
   padding: 10px;
-  size: 50px;
 }
 footer p{
   color: rgb(230, 221, 221);
@@ -61,7 +60,6 @@ footer a{
 }*/
 address{
   border: 0.5px;
-  border-style: solid;
   float: right;
   height: 40%;
   font-size: 10px;
@@ -69,6 +67,12 @@ address{
 address img{
   width: 10%;
   height: 10%;
-  margin: 0 0;
-  padding: auto;
+  /*margin: 0 0;*/
+  padding: 0px 0px;
+  margin-top: initial;
+  position: inherit;
+}
+footer p{
+  float: left:
+
 }
