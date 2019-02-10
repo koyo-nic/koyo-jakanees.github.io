@@ -64,8 +64,11 @@ address{
   border-style: solid;
   float: right;
   height: 40%;
+  font-size: 10px;
 }
 address img{
   width: 10%;
   height: 10%;
+  margin: 0 0;
+  padding: auto;
 }
