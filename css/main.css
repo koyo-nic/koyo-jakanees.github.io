@@ -65,6 +65,9 @@ header a:hover {
   background-color: darkgrey;
   width: 50%;
 }
+.interests ul{
+  list-style-type: square;
+}
 /* series of css rulest that was causing a bug to review later
 footer{
   padding-top: 70px;
