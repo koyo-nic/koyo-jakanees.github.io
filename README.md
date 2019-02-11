@@ -23,6 +23,12 @@ Please feel free to open an issue: still in testing phase!!!
 ## Live Demo
 try it [here](https://koyo-jakanees.github.io/)
 
+### To Do List
+[] change section layout
+[] change main body background
+[] add more footer information
+[] include nav bar and more pages from the [mockup](https://github.com/koyo-jakanees/mockUpWebsite)
+
 ### License:
 *MIT*
 Copyright (c) 2019
