@@ -56,7 +56,7 @@ header a:hover {
   background-color: bisque;
 }
 .about{
-  float: left;../
+  float: left;
   background-color: aquamarine;
   width: 50%;
 }
@@ -96,7 +96,7 @@ address{
   border: 0.5px;
   float: right;
   height: 40%;
-  font-size: 10px;../
+  font-size: 10px;
   width: 100%;
   background-color: rgb(22, 22, 49);
 }
