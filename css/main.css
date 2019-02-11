@@ -41,9 +41,29 @@ header a:hover {
   margin-bottom: 10px;
   letter-spacing: 5px;
   font-size: 45px;
+  text-decoration-line: underline;
+  text-decoration-color: rgb(22, 22, 49);
 }
 .topWrapper img{
   width: 350px;
+}
+.topWrapper span{
+  color: red;
+  font-style: italic;
+}
+.topWrapper strong{
+  color: red;
+  background-color: bisque;
+}
+.about{
+  float: left;
+  background-color: aquamarine;
+  width: 50%;
+}
+.projects{
+  float: right;
+  background-color: darkgrey;
+  width: 50%;
 }
 /* series of css rulest that was causing a bug to review later
 footer{
