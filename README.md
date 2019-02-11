@@ -23,7 +23,7 @@ Please feel free to open an issue: still in testing phase!!!
 ## Live Demo
 try it [here](https://koyo-jakanees.github.io/)
 ## Preview:
-![website preview](/mages/website preview.png)
+![website preview](https://github.com/koyo-jakanees/koyo-jakanees.github.io/blob/master/images/website%20preview.png)
 
 ### To Do List
 - [ ] change section layout
