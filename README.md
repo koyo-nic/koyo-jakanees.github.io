@@ -14,14 +14,14 @@ It was built using
 
 To build this locally on your machine simply download or clone this repo and/or extract the contents of the zip file and open the *index.html* file
 
-from terminal *(for *nix based users)* within the directory of this folder simply type 'python -m simplehttpserver' and it will open in your default browser
+from terminal *(for *nix based users)* within the directory of this folder simply type '<python -m simplehttpserver>' and it will open in your default browser
 **requirement:** Chrome or Mozilla for optimum experience.
 ## Known :bug:
 
 Please feel free to open an issue: still in testing phase!!!
 
 ## Live Demo
-try it [here](http://github.com)
+try it [here](https://koyo-jakanees.github.io/)
 
 ### License:
 *MIT*
