@@ -21,7 +21,7 @@ from terminal *(for *nix based users)* within the directory of this folder simpl
 Please feel free to open an issue: still in testing phase!!!
 
 ## Live Demo
-try it [here](http://github.com)
+try it [here](https://koyo-jakanees.github.io/)
 
 ### License:
 *MIT*
