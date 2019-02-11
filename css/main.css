@@ -29,7 +29,20 @@ header a{
 header a:hover {
   background-color: rgba(255, 255, 255, 0.5);
 }
-/*
+.topWrapper{
+  text-align: center;
+  padding: 180px 0 100px 0;
+  background-image: url("https://lh3.googleusercontent.com/RBoqPBG-cAkyyHlDJ_ydBOCb7w3p0GvPlNK5ISgV5OgvBAvu7v3_Sw3QrWgPLnvS_zYAsA0Tr2ibKTwD3p2nt1_FcNnrnHh0lWnf6roJOCpTaFJ-aTHNl0jd273MaXjI5ixpKh2W0O6XgvT3ya_hpDuBSoPCfTHZCmUH_9y4pfjXNUMSkVqO8iaAF6w1_y-t9Qhi7kmPt1cMi6dIAG4lL2McqYrZc0UEaL9H50Q2xGP4JKn1h-bLoQo0ve5kEygrhA7TlASnQeF-gbUXVENwumzBE_jsaZXK1QVHnWo67Blf2OMUU2t6MmM-ArugxLokVICcP_vUmX5q2_zmCzjl9WP6byD-NlironBL19sHzEs2azaFQxyyefwpxK7qgyAfiydmS7-C8jpFxcYXXAxVKNJOiwizwKZ_pJFVTqk20Piq4t5EI2CedxYSSeIqKJyw1SJD3ze1LGltpQf_GuCCw6khXlqizC-8oAbF9qHjErMdzTkMCvuh_DeF0EKtgiFCGELEmsSnc6eWHNClxWyufLRm68ZtBc7HWneuFt0aflnPo6Qei-wSffLPTxMWFNoxhRpIt8HmignXqALVX60r4QsZdT7vK5ftvVOy-xupSljZ2onONHeNYDF2fWrsL2XoHoemPi1zJZr2jS5pCks_Cf9kn4kuT5O7=w640-h447-no");
+  background-size: cover;
+  color: white;
+}
+.topWrapper h2{
+  opacity: 0.7;
+  margin-bottom: 10px;
+  letter-spacing: 5px;
+  font-size: 45px;
+}
+/* series of css rulest that was causing a bug
 footer{
   padding-top: 70px;
   width: 100%;  
@@ -69,6 +82,4 @@ footer p{
 footer img {
   width: 20px;
 }
-footer {
-  padding-top: 30px;
-}
+
