@@ -34,7 +34,7 @@ header a:hover {
   padding: 180px 0 100px 0;
   background-image: url("../images/IMAG1534-ANIMATION.gif");
   background-size: cover;
-  color: white;
+  color: rgba(11, 59, 148, 0.76);
 }
 .topWrapper h2{
   opacity: 0.7;
@@ -78,7 +78,7 @@ footer{
 }
 
 footer p{
-../  color: rgb(230, 221, 221);
+  color: rgb(230, 221, 221);
   float: initial;
   bottom: 0;
 }
@@ -108,4 +108,3 @@ footer p{
 footer img {
   width: 20px;
 }
-
