@@ -106,9 +106,9 @@ ________________________________________________________________________________
 
 >> Computational science is an emerging area (or discipline) that involves developing computational models applied in various areas of science and engineering to solve large-scale (and complex) scientific problems.
 
->> Computational Thinking is required for any problem that involves calculations. This involves deciding: what ??>>calculations use what values, and the order in which the calculations must occur. It usually requires >>multi-disciplinary and team work.
+>> Computational Thinking is required for any problem that involves calculations. This involves deciding: what calculations use what values, and the order in which the calculations must occur. It usually requires >>multi-disciplinary and team work.
 
->> Computational thinking is the ability to describe the requirements of a problem, design a mathematical solution >>to the problem, and implement the solution in a computer.
+>> Computational thinking is the ability to describe the requirements of a problem, design a mathematical solution to the problem, and implement the solution in a computer.
 
 >> Large and complex computational models usually require high performance computing resources to execute and the >>models are used to study the behavior of large and complex real systems or  processes. 
 _______________________________________________________________________________________________________
