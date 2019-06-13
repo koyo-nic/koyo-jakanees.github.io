@@ -18,10 +18,10 @@ They are quite a number of programming languages used in the geospatial domain f
 
 Since this module is not focused on any specific subdomain of geospatial industry, the language used will be python and reletated modules for the spatial operationsin the free and opensource scope therefore proprietory modules will not be subject to this scope.
 
->>>>> Spatial visualization: R, javascript, python, etc.
->>>>> Geoprocessing and/or Geostatistics: python, R,Spark, C++, C#,octave etc
->>>>> Spatial web development: Javascript, python, R, C++,C#,Scala.etc
->>>>> Raster Processing:  C++, python, R, Javascript,C++, Matlab, octave etc
+ - Spatial visualization: R, javascript, python, etc.
+ - Geoprocessing and/or Geostatistics: python, R,Spark, C++, C#,octave etc
+ - Spatial web development: Javascript, python, R, C++,C#,Scala.etc
+ - Raster Processing:  C++, python, R, Javascript,C++, Matlab, octave etc
 
 *Above list is not definitive but just to show how the same tools can be used to achieve similar tasks, thus it's adviceable to pick the tool(your swiss knife) that you can obtain the end results without a steep learning curve and is comfortable with*
 
@@ -34,7 +34,8 @@ ________________________________________
 ________________________________
 
 ## Pre-course
-- **Git for Spatial Scientists:**
+I. **Git for Spatial Scientists:**
+
 *Overview of version control system (git) and online repository hosting services such as [github](https://github.com/)/[gitlab](https://about.gitlab.com/)/[Bitbucket](https://bitbucket.org/) repositories*
 ```
 Software used to keep track of your files and backing up online. This proves vital in collaboratory research and programming; also at a personal level to manage your files
@@ -42,38 +43,29 @@ Software used to keep track of your files and backing up online. This proves vit
 One should strive to grasp the use of 'intialising a repo, cloning, pulling or pushing to a remote repo merge, committing locally'. Learn just enough to allow you to comfortably work through the basics.
 ```
 >*Here is a basic overview of how Git works:*
->> create or initialize  your local  repo/dir(barebone folders with) with  ```git init``` or
+>- create or initialize  your local  repo/dir(barebone folders with) with  ```git init``` or
+>- Create an online/remote "repository" (project) with a git hosting tool (like Bitbucket or github)
+>- Copy (or clone) the repository to your local 
+>- Add remote alias to your remote repo
+>- Add a file to your local repo and "commit" (save) the changes
+>- "Push" your changes to your master branch
+>- Make a change to your file with a git hosting tool and commit
+>- "Pull" the changes to your local machine
+>- Create a "branch" (version), make a change, commit the change
+>- Open a "pull request" (propose changes to the master branch)
+>- "Merge" your branch to the master branch
 
->> Create an online/remote "repository" (project) with a git hosting tool (like Bitbucket or github)
+##### Links to Resources
 
->> Copy (or clone) the repository to your local 
+- [Download git](https://git-scm.com/downloads) choose the one for your Operating system
 
->> Add remote alias to your remote repo
+- [Vesrion Control with git](https://swcarpentry.github.io/git-novice/) **Recommended** Approximately 3~min introductory walthrough goal oriented i.e collaboratoring with git from software capentries
 
->> Add a file to your local repo and "commit" (save) the changes
+- [Github intro](https://try.github.io/)
 
->> "Push" your changes to your master branch
+- [Bitbucket](https://www.atlassian.com/git/tutorials/what-is-version-control)*worth checking out after Software capentry:* short graphical tutorial 
 
->> Make a change to your file with a git hosting tool and commit
-
->> "Pull" the changes to your local machine
-
->> Create a "branch" (version), make a change, commit the change
-
->> Open a "pull request" (propose changes to the master branch)
-
->> "Merge" your branch to the master branch
-
-
-[Download git](https://git-scm.com/downloads) choose the one for your Operating system
-
-[Vesrion Control with git](https://swcarpentry.github.io/git-novice/) **Recommended** Approximately 3~min introductory walthrough goal oriented i.e collaboratoring with git from software capentries
-
-[Github intro](https://try.github.io/)
-
-[Bitbucket](https://www.atlassian.com/git/tutorials/what-is-version-control)*worth checking out after Software capentry:* short graphical tutorial 
-
-[Pro Git book](https://git-scm.com/book/en/v2) comprehensive guide of git recommended on their official  website
+- [Pro Git book](https://git-scm.com/book/en/v2) comprehensive guide of git recommended on their official  website
 
 >If comfortable enough and has appetite for more, check [Geogig](http://geogig.org/)  which is *an open source tool that draws inspiration from Git, but adapts its core concepts to handle distributed versioning of geospatial data.* Inspired by git but domain specific for tracking spatial data  changes from shapefiles, spatialite, osm, postgis e.t.c  Check out the [offical workshop](http://geogig.org/workshop/index.html) walk through to explore at your own pace.
 
@@ -84,15 +76,16 @@ markdown*
 I suggest you take roughly 5 minutes to [Github Flavoured markedown guides](https://guides.github.com/features/mastering-markdown/) to familiarize and try out different tags.
 
 
-- **Introduction to terminal/shell**
+II. **Introduction to terminal/shell**
+
 *Brief discussion on using 'nix based shell/terminal/command prompt*
 ```
 Text based set of programs that ships default with your pc/laptop that proves helpful in writing automation scripts navigating through directories/folder, files. Before the rise of the Graphical User Interfaces laptops were text based where instead the beautiful User interfaces back in the 70's. 
 
 Due to the current progress made in cloud computing, familiarity in the *nix based commands gives the student an easy time through prefered cloud service e.g google GCE, amazon AWS etc
 ```
-        [link](to linux sw capentries)
-        [link](to ess-edu resource)
+ + [Software Capentry Unix Shell](https://swcarpentry.github.io/shell-novice/)  less than 5 minute tutorial to show case a typical unix shell operations in data intense environments
+ + [Surrey Unix Introduction](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 
 >> - **Introduction to computational thinking with python**
 *Overview of programming thinking in solving obvious and ubiquitious real world problems using computer science principles and python programming*
