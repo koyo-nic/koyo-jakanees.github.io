@@ -87,7 +87,8 @@ Due to the current progress made in cloud computing, familiarity in the *nix bas
  + [Software Capentry Unix Shell](https://swcarpentry.github.io/shell-novice/)  less than 5 minute tutorial to show case a typical unix shell operations in data intense environments
  + [Surrey Unix Introduction](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 
->> - **Introduction to computational thinking with python**
+III. **Introduction to computational thinking with python**
+
 *Overview of programming thinking in solving obvious and ubiquitious real world problems using computer science principles and python programming*
 
 ____________________________________________________________________________________________________________________
@@ -95,6 +96,7 @@ ________________________________________________________________________________
  **Essential Concepts**
 
  > *An excerpt from [Computational Models](http://ksuweb.kennesaw.edu/~jgarrido/computational.html) Dr. Jose M. Garrido 2016*
+
 >>A computational model is a computer implementation of the solution to a (scientific) problem for which a 
 >> mathematical representation has been formulated. Developing a computational model includes formulating the
 >> mathematical model and implementing it by applying Computer Science concepts, principles and methods such as: 
