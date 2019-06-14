@@ -76,6 +76,7 @@ header a:hover {
 .topWrapper img{
   border-radius: 70px 70px;
   width: 150px;
+  box-shadow: 2px 2px 2px 2px rgb(56, 54, 54);
 }
 .topWrapper span{
   color: red;
@@ -90,7 +91,7 @@ header a:hover {
   width: 50%;
   border: solid gray 2px;
   border-radius: 20px;
-  box-shadow: 4px 4px 4px 5px rgb(160, 158, 158);
+  box-shadow: 4px 4px 1px 5px rgb(160, 158, 158);
 }
 .projects{
   float: right;
@@ -100,7 +101,7 @@ header a:hover {
   padding: 5px;
   border: solid gray 2px;
   border-radius: 20px;
-  box-shadow: 4px 4px 4px 5px rgb(160, 158, 158);
+  box-shadow: 4px 4px 1px 5px rgb(160, 158, 158);
 }
 .projects a:hover{
   background: 
