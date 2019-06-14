@@ -24,7 +24,7 @@ header h1{
   background:
     linear-gradient(
       to right,
-      lime, red, coral, orange, rgb(66, 241, 66)
+      lime, red, coral, rgb(231, 165, 41), rgb(13, 49, 13)
     );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -35,7 +35,7 @@ nav{
   float: right;
   color: rgb(29, 77, 77);
   list-style-type: none;
-  border:1px solid  #f3f3f3;
+  border:1px solid #f3f3f3;
   border-radius: 50px 50px;
   background-color: rgb(189, 255, 127);
   text-align: left;
@@ -56,7 +56,9 @@ header a:hover {
   padding: 180px 0 100px 0;
   background-image: url("../images/IMAG1534-ANIMATION.gif");
   background-size: cover;
-  color: rgba(11, 59, 148, 0.76);
+  color: rgba(255, 255, 255, 0.76);
+  border: solid gray 1px;
+  border-radius:  10px;
 }
 .topWrapper h2{
   background: 
@@ -85,13 +87,20 @@ header a:hover {
 }
 .about{
   float: left;
-  background-color: aquamarine;
   width: 50%;
+  border: solid gray 2px;
+  border-radius: 20px;
+  box-shadow: 4px 4px 4px 5px rgb(160, 158, 158);
 }
 .projects{
   float: right;
   background-color: darkgrey;
-  width: 50%;
+  width: 48%;
+  margin: 2px;
+  padding: 5px;
+  border: solid gray 2px;
+  border-radius: 20px;
+  box-shadow: 4px 4px 4px 5px rgb(160, 158, 158);
 }
 .projects a:hover{
   background: 
@@ -104,6 +113,7 @@ header a:hover {
 .interests ul{
   list-style-type: square;
 }
+
 /* series of css rulest that was causing a bug to review later
 footer{
   padding-top: 70px;
